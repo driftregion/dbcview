@@ -1,3 +1,5 @@
+# Usage
+
 ```sh
 Usage: dbcview [OPTIONS] FILENAME [NODES]...
 
@@ -8,3 +10,7 @@ Options:
   -o PATH               Output dir for PDF (defaults to tmp)
   --help                Show this message and exit.
 ```
+
+# Example
+
+![ThinkCity dbcview](https://raw.githubusercontent.com/nkirkby/dbcview/master/ThinkCity.png)
